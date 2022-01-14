@@ -8,6 +8,7 @@
 ![c2](https://user-images.githubusercontent.com/79763173/149439070-5209f48e-50b7-41a6-8994-5cc7a9bb689c.jpg)
 
 #### 2.1.실행방법
+0. concurrently 설정이 되어 있어 * npm start dev *  만으로도 서버, 클라이언트가 모두 실행가능
 1. 서버 실행
 ```
 cd server

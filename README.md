@@ -9,6 +9,10 @@
 
 #### 2.1.실행방법
 0. concurrently 설정이 되어 있어 * npm start dev *  만으로도 서버, 클라이언트가 모두 실행가능
+```
+npm start dev
+```
+
 1. 서버 실행
 ```
 cd server

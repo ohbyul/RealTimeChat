@@ -9,13 +9,14 @@
 
 #### 2.1.실행방법
 >cd server
+>
 >node server
 
 서버 실행
 
 >cd clienT
+>
 >npm start
-
 
 화면 실행
 

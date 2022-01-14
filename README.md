@@ -8,18 +8,16 @@
 ![c2](https://user-images.githubusercontent.com/79763173/149439070-5209f48e-50b7-41a6-8994-5cc7a9bb689c.jpg)
 
 #### 2.1.실행방법
+1. 서버 실행
 >cd server
 >
 >node server
 
-서버 실행
-
+2.화면 실행
 >cd clienT
 >
 >npm start
 
-화면 실행
-
 #### 3.1.오류사항
-* cors 처리 node쪽에서 했으니 오류
-  + 테스트를 위해 cors 확장 프로그램 다운
+1. cors 처리 node쪽에서 했으니 오류
+2. 테스트를 위해 cors 확장 프로그램 다운
